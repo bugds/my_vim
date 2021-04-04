@@ -3,8 +3,9 @@ There are my vim configurations and plugins
 
 ### Installation:
 
-    git clone git://github.com/nelstrom/dotvim.git ~/.vim
+    git clone git://github.com/bugds/my_vim.git ~/.vim
 
-### Create symlinks:
+### Create a symlink:
 
+    rm ~/.vimrc
     ln -s ~/.vim/vimrc ~/.vimrc
