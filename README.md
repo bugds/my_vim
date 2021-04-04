@@ -8,4 +8,3 @@ There are my vim configurations and plugins
 ### Create symlinks:
 
     ln -s ~/.vim/vimrc ~/.vimrc
-    ln -s ~/.vim/gvimrc ~/.gvimrc
