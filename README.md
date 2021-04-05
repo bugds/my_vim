@@ -8,4 +8,4 @@ There are my vim configurations and plugins
 ### Create a symlink:
 
     rm ~/.vimrc
-    mv ~/.vim/vimrc ~/.vimrc
+    mv ~/.vim/.vimrc ~/.vimrc
