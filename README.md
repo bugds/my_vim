@@ -5,7 +5,7 @@ There are my vim configurations and plugins
 
     git clone git://github.com/bugds/my_vim.git ~/.vim
 
-### Create a symlink:
+### Move .vimrc:
 
     rm ~/.vimrc
     mv ~/.vim/.vimrc ~/.vimrc
